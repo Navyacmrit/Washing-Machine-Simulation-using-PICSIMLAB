@@ -1,1 +1,2 @@
-# Washing-Machine-Simulation-using-PICSIMLAB
+The simulation replicates the core functionality of a washing machine, providing insights into control system design, automation, and simulation techniques for embedded systems.
+This project focuses on simulating a washing machine using PicsimLab, aiming to replicate real-world washing machine functionality in a virtual environment. The project begins with a comprehensive understanding of washing machine components, cycles, and operations. Parameters defining laundry status, such as fabric type, load size, and water level, are identified.
